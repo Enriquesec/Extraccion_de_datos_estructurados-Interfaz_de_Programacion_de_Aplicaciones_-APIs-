@@ -1,7 +1,7 @@
-# Extracción de datos estructurados Interfaz de Programacion de Aplicaciones -APIs-
+# Extracción de datos estructurados Interfaz de Programación de Aplicaciones -APIs-
 
 # Instalación de Anaconda:
-A continuación te detallo los pasos para que puedas instalar Anaconda en tu PC con Windows:
+A continuación te detallamos los pasos para que puedas instalar Anaconda en tu PC con Windows:
 
 1. Navegar al sitio oficial de descargas de Anaconda, https://www.anaconda.com/distribution/
 
