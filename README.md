@@ -20,4 +20,4 @@ A continuación te detallamos los pasos para que puedas instalar Anaconda en tu 
 7. Una vez instalado, verás esta pantalla con las opciones para acceder a algunos recursos oficiales y la documentación de Anaconda.
 
 ¡Listo! Una vez completada la instalación, podrás acceder al Anaconda Navigator y al Jupyter Notebook, el entorno de trabajo que usaremos. Adicionalmente, usaremos las librerías *beautifulsoup*, *requests, pandas, tqdm y numpy*, que se pueden instalar en la terminal (o símbolo del sistema en el caso de Windows) con la siguiente línea (en el entorno base o el que quieras configurar):
-- **conda install beautifulsoup requests pandas tqdm numpy**
+- **conda install bs4 requests pandas tqdm numpy**
