@@ -16,4 +16,6 @@
 
 2. (B) [API Dark Sky](Dark_Sky)(Datos de clima).
 
+- Paquetes utilizados: pandas, urllib, BeautifulSoup, json, urllib.request, time, numpy.
+
 3. API Spotify.  
