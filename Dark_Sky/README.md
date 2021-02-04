@@ -1,21 +1,10 @@
-# Extraccion_de_datos_estructurados-Interfaz_de_Programacion_de_Aplicaciones_-APIs-
+# Dark Sky API
 
-### Propuesta para la presentación:
+Se explica un ejemplo detallado para usar la API de Dark Sky para obtener datos de clima.
 
-- ¿Qué es una API? 
+El ambiente que se ocupo fue en Python 3.7.6 con las librerias:
 
-- Ventajes de las API.
-
-- Etc,
-
-- Ejemplos de extración de datos estructurados:
-
-1. Página web.
-
-2. API Twitter. Twitterpy, ScrapperTwets, Selium.
-
-2. (B) [API Dark Sky](Dark_Sky)(Datos de clima).
-
-- Paquetes utilizados: pandas, urllib, BeautifulSoup, json, urllib.request, time, numpy.
-
-3. API Spotify.  
+- Pandas 1.0.1
+- Urllib3 1.25.8
+- Json5 0.9.1
+- Forecastiopy 0.22
